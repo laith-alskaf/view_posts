@@ -1,7 +1,11 @@
 # testofcourse
+تطبيق Flutter صغير يعرض المنشورات التي تم جلبها من واجهة برمجة التطبيقات (API) على الواجهة الرئيسية. عند النقر على منشور،
+يتم فتح واجهة جديدة تعرض التفاصيل الكاملة للمنشور، بما في ذلك الصورة المرتبطة به. يتضمن التطبيق أيضًا واجهة لإنشاء منشورات جديدة وزرًا لحذف المنشورات.
+ومع ذلك، تكون عمليات الإضافة والحذف هذه محلية ولا تؤثر على بيانات واجهة برمجة التطبيقات الفعلية.
 
- A Facebook-like Flutter application that works with the API to retrieve and display posts,
- publish new posts, and delete them with simple interfaces.
+A small Flutter application that displays posts fetched from an API on the main interface.When a post is clicked,
+it opens a new interface showing the full details of the post,including its associated image.
+The app also includes an interface for creating new postsand a button for deleting posts. However, these additions and deletions are local and do notaffect the actual API data.
 
 ## Getting Started
 
