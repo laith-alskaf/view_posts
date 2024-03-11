@@ -1,6 +1,7 @@
 # testofcourse
 
-A new Flutter project.
+      A Facebook-like Flutter application that works with the API to retrieve and display posts,
+      publish new posts, and delete them with simple interfaces.
 
 ## Getting Started
 
